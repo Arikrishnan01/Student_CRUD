@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const GLOBAL_URL = "http://localhost:5000";
+export const GLOBAL_URL = "https://student-crud-1.onrender.com";
 
 /** auth api */
 export async function userSignUp(data){
